@@ -1,1 +1,1 @@
-# HW-2-Python
+# python-homework
